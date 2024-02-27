@@ -1,4 +1,4 @@
-package config;
+package sample.authentication.config;
 
 import org.mapstruct.Named;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

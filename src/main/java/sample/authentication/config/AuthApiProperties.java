@@ -1,4 +1,4 @@
-package config;
+package sample.authentication.config;
 
 import lombok.Data;
 import lombok.SneakyThrows;
