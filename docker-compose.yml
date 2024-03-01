@@ -16,5 +16,5 @@ services:
       - db
 networks:
   default:
-    name: recard
+    name: demo
     external: true
