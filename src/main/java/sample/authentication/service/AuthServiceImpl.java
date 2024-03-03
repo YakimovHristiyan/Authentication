@@ -5,7 +5,7 @@ import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import sample.authentication.config.AuthApiProperties;
-import sample.authentication.constants.MessageConstants;
+import sample.authentication.constant.MessageConstants;
 import sample.authentication.exception.BadRequestException;
 import sample.authentication.exception.UnauthorizedException;
 import sample.authentication.model.entity.TokenType;

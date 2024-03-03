@@ -6,7 +6,7 @@ import org.reflections.Reflections;
 import org.reflections.util.ClasspathHelper;
 import org.reflections.util.ConfigurationBuilder;
 import sample.authentication.annotations.KafkaPayload;
-import sample.authentication.constants.SingleSymbolConstants;
+import sample.authentication.constant.SingleSymbolConstants;
 
 import java.util.stream.Collectors;
 

@@ -4,8 +4,8 @@ import jakarta.validation.constraints.AssertTrue;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Past;
 import jakarta.validation.constraints.Pattern;
-import sample.authentication.constants.MessageConstants;
-import sample.authentication.constants.RegexConstants;
+import sample.authentication.constant.MessageConstants;
+import sample.authentication.constant.RegexConstants;
 
 import java.time.LocalDate;
 

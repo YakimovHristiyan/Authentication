@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
-import sample.authentication.constants.HeaderConstants;
+import sample.authentication.constant.HeaderConstants;
 import sample.authentication.model.payload.request.RegistrationRequest;
 import sample.authentication.model.payload.response.AuthDetailsResponse;
 import sample.authentication.service.UserService;

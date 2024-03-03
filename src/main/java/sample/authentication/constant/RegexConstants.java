@@ -1,4 +1,4 @@
-package sample.authentication.constants;
+package sample.authentication.constant;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

@@ -8,7 +8,7 @@ import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.MissingRequestHeaderException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
-import sample.authentication.constants.MessageConstants;
+import sample.authentication.constant.MessageConstants;
 import sample.authentication.exception.BadRequestException;
 import sample.authentication.exception.NotFoundException;
 import sample.authentication.exception.UnauthorizedException;

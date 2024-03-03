@@ -2,7 +2,7 @@ package sample.authentication.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import sample.authentication.constants.MessageConstants;
+import sample.authentication.constant.MessageConstants;
 import sample.authentication.exception.BadRequestException;
 import sample.authentication.exception.NotFoundException;
 import sample.authentication.mapper.UserMapper;

@@ -2,7 +2,7 @@ package sample.authentication.service;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
-import sample.authentication.constants.TopicConstants;
+import sample.authentication.constant.TopicConstants;
 
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public final class TopicNamingService {
